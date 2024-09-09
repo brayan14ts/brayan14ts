@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brayan14ts
 - 👀 I’m passionate about quality and software development.
 - 🌱 I am continuously learning automation testing with some new framework and language.
-- - 💞️ I’m looking to collaborate on Software Testing
+- 💞️ I’m looking to collaborate on Software Testing
 - 📫 How to reach me: https://www.linkedin.com/in/brayan14ts/ or brayan14ts@gmail.com
 
 <!---
