@@ -40,5 +40,7 @@
 <h2 align="center">Let's Connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/brayan14ts/" target="_blank">LinkedIn</a> |
-  <a href="mailto:brayan14ts@gmail.com" target="_blank">Email</a>
+  <a href="mailto:brayan14ts@gmail.com" target="_blank">Email</a> |
+  <a href="https://brayan14ts.github.io/" target="_blank">Website</a>
 </p>
+
